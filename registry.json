@@ -2273,6 +2273,36 @@
         "Management",
         "Claude"
       ]
+    },
+    {
+      "id": "free-model-hub",
+      "name": "Free Model Hub",
+      "description": "One provider plugin for free and free-tier models: keyless Kilo free pool and OpenCode Zen free models, OpenRouter :free models, Cline free models, OpenCode Go, and free-tier keys for GitHub Models, NVIDIA NIM, Groq, Cerebras, Mistral, SambaNova, Cohere, Z.ai Flash and more, plus sign-in coding-assistant tiers. English console for accounts and models.",
+      "author": "Yousha-dev",
+      "repository": "https://github.com/Yousha-dev/free-model-hub",
+      "homepage": "https://github.com/Yousha-dev/free-model-hub",
+      "license": "MIT",
+      "tags": ["Provider", "Auth", "Management"]
+    },
+    {
+      "id": "team-routing",
+      "name": "Team Routing",
+      "description": "Quota-aware scheduler for Claude, Codex and Antigravity subscription accounts: avoids accounts near their five-hour limit, prefers quota about to reset, keeps conversations on one account for prompt caching, and pins client keys to a provider/model. Includes its own cached quota provider and a dashboard.",
+      "author": "Yousha-dev",
+      "repository": "https://github.com/Yousha-dev/team-routing",
+      "homepage": "https://github.com/Yousha-dev/team-routing",
+      "license": "MIT",
+      "tags": ["Scheduler", "Quota", "Management"]
+    },
+    {
+      "id": "claude-remote-login",
+      "name": "Claude Remote Login",
+      "description": "Adds a Claude subscription account from another device: generates a sign-in link that shows a code instead of redirecting to localhost, so a teammate can sign in remotely and paste the code back.",
+      "author": "Yousha-dev",
+      "repository": "https://github.com/Yousha-dev/claude-remote-login",
+      "homepage": "https://github.com/Yousha-dev/claude-remote-login",
+      "license": "MIT",
+      "tags": ["Auth", "Management"]
     }
   ]
 }
