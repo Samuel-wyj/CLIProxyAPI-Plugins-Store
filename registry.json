@@ -2259,6 +2259,20 @@
       "homepage": "https://github.com/DongHua3/cpa-plugin-antigravity",
       "license": "MIT",
       "tags": ["Interceptor"]
+    },
+    {
+      "id": "omp-gateway-usage",
+      "name": "OMP Gateway Usage",
+      "description": "Displays Claude subscription quota windows from OMP Gateway in a CPA management page. Read-only, with management-key authentication.",
+      "author": "ParticleG",
+      "repository": "https://github.com/ParticleG/cpa-omp-gateway-usage",
+      "homepage": "https://github.com/ParticleG/cpa-omp-gateway-usage",
+      "license": "MIT",
+      "tags": [
+        "Quota",
+        "Management",
+        "Claude"
+      ]
     }
   ]
 }
