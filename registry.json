@@ -2314,6 +2314,17 @@
       "homepage": "https://github.com/ivanarifin/CPA-Combo-Plugin",
       "license": "MIT",
       "tags": ["Model Router", "Fallback", "Management", "Dashboard"]
+    },
+    {
+      "id": "cpa-suite",
+      "name": "CPA Suite",
+      "description": "一体化管理插件：按 API Key 计费与套餐额度、路由规则与并发限制、客户端限制、Codex/Grok 额度预测与用量排行、降智监控与告警中心，并支持 Key 持有者自助查询余量。基于 cpa-key-billing（MIT）扩展，可一次性导入 cpa-key-billing 与 client-guard 的数据；与 cpa-key-billing 功能重复，不能同时启用。",
+      "author": "Samuel-wyj",
+      "version": "1.0.0",
+      "repository": "https://github.com/Samuel-wyj/cpa-suite",
+      "homepage": "https://github.com/Samuel-wyj/cpa-suite",
+      "license": "MIT",
+      "tags": ["Billing", "Quota", "Scheduler", "Management", "Codex"]
     }
   ]
 }
